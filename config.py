@@ -4,6 +4,6 @@ AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjMwMDMyMzVAZHMuc3R1ZHkuaWl
 
 # Fixed — do not change
 AIPIPE_BASE = "https://aipipe.org/openai/v1"
-TEXT_MODEL = "gpt-4o”
+TEXT_MODEL = "gpt-4o"
 
 
